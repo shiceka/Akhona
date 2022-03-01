@@ -24,4 +24,4 @@ call the function : functionName(4); we will have the number 9 returned to us.
 
 # conclusion
 As I conclude on this I am yet to properly understand global and local declarations and functions as this notion still slightly eldues me sometimes.
- I do however know that it is better to have both global and local scope in a function, although with this the local variable will take presedence.  
+ I do however know that it is better to have both global and local scope in a function, although with this the local variable will take presedence.
