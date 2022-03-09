@@ -1,6 +1,6 @@
 ---
 Layout:
-Title:  "button events"
+Title:  "Button events"
 Date:   "2022-03-04"
 Categories:
 ---
