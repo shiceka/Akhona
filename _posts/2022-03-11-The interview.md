@@ -14,4 +14,4 @@ We had a visit from Tanille whom I got to meet for the first time in person and 
 
 
 # conclusion
-There are a great number of points to take into consideration such as the STAR technique which asks you about a particular Situation, Task at hand, Action taken by you(remember to refer to this as first person "I") and the Result at the end of whatever situation was asked of you. Not many recieve this opportunity I still say.
+There are a great number of points to take into consideration such as the STAR technique which asks you about a particular Situation, Task at hand, Action taken by you(remember to refer to this as first person "I") and the Result at the end of whatever situation was asked of you. Not many recieve this opportunity not to be played with, I still say.
