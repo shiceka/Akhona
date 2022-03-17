@@ -23,4 +23,3 @@ parseInt(str,radix(assumed to be 2)).
 # conclusion
 In conclusion of today I was told to join codewars which is a wow place that tests our programming skills and I learnt later on has levels of rating which one has to work up from 8 to 1 hopefully after becoming a great programmer. Gaining skill points and actual skills is the main purpose of this so I feel I am in a good place for now.
 
-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
