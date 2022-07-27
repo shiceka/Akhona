@@ -1,6 +1,6 @@
 ---
 Layout:
-Title:  "React redo..."
+Title:  "React redo.."
 Date:   "2022-07-21"
 Categories:
 ---
